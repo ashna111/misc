@@ -1,0 +1,3 @@
+[submodule "node-newrelic-test"]
+	path = node-newrelic-test
+	url = https://github.com/ashna111/node-newrelic-test.git
